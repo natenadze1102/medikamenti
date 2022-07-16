@@ -1,1 +1,1 @@
-# medikamenti
+# medikamenti.ge
